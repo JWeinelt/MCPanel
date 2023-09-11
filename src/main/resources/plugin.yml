@@ -1,0 +1,4 @@
+name: MCPanel
+version: '${project.version}'
+main: de.justcody.mcpanel.MCPanel
+api-version: '1.20'
